@@ -1,6 +1,6 @@
 # buscador_gifs
 
-Buscador de gifs online
+Buscador de gifs online consumindo a api do  gifs for developers.
 
 ## Getting Started
 
