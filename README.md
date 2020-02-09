@@ -2,6 +2,9 @@
 
 Buscador de gifs online consumindo a api do  gifs for developers.
 
+<img src="/Users/moisesgs/Documents/Projetos_Flutter/Projetos/buscador_gifs/images_README/Captura de Tela 2020-02-09 às 09.40.30.png" width="100" height="100">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
