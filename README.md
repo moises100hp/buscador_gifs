@@ -2,7 +2,19 @@
 
 Buscador de gifs online consumindo a api do  gifs for developers.
 
-<img src="buscador_gifs/images_README/Captura de Tela 2020-02-09 às 09.40.30.png" width="100" height="100">
+<img src="buscador_gifs/images_README/Primeira.png" width="100" height="100">
+
+<br/>
+
+<img src="buscador_gifs/images_README/Segunda.png" width="100" height="100">
+
+<br/>
+
+<img src="buscador_gifs/images_README/Terceira.png" width="100" height="100">
+
+<br/>
+
+
 
 
 ## Getting Started
