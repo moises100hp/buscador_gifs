@@ -2,7 +2,10 @@
 
 Buscador de gifs online consumindo a api do  gifs for developers.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 81958a673e632a30f2691810275eed372eaf173f
 
 ## Getting Started
 
